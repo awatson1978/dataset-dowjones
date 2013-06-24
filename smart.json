@@ -1,0 +1,8 @@
+{
+    "name": "dataset-dowjones",
+    "description": "Meteorite package that provides a simple history of the Dow Jones Industrial Average over 5 years.",
+    "homepage": "https://github.com/awatson1978/dataset-dowjones",
+    "author": "Abigail Watson  (http://www.pentasyllabic.com)",
+    "version": "0.1.0",
+    "git": "https://github.com/awatson1978/dataset-dowjones.git"
+}
