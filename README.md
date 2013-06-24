@@ -1,4 +1,4 @@
-**dataset-dictionary** is a Meteorite package that provides a the Webster Unabridged English Dictionary.
+**dataset-dowjones** is a Meteorite package that provides a the Webster Unabridged English Dictionary.
 
 ------------------------
 ### Examples
@@ -12,7 +12,7 @@ http://bl.ocks.org/mbostock/4063318
 First, install the dataset-dictionary package from the command line, like so:
 
 ````
-mrt add dataset-dictionary
+mrt add dataset-dowjones
 ````
 
 Alternatively, if you'd like to bypass Atmosphere, and install directly from GitHub, you could update your application's smart.json file, like so:
@@ -23,8 +23,8 @@ Alternatively, if you'd like to bypass Atmosphere, and install directly from Git
     "branch": "master"
   },
   "packages": {
-    "dataset-dictionary": {
-      "git": "https://github.com/awatson1978/dataset-dictionary.git"
+    "dataset-dowjones": {
+      "git": "https://github.com/awatson1978/dataset-dowjones.git"
     }
   }
 }
