@@ -1,10 +1,5 @@
-**dataset-dowjones** is a Meteorite package that provides a the Webster Unabridged English Dictionary.
+**dataset-dowjones** is a Meteorite package that provides 20 years worth of Dow Jones Index summaries.
 
-------------------------
-### Examples
-
-This dataset was originally obtained from the D3 Calendaring example.
-http://bl.ocks.org/mbostock/4063318
 
 ------------------------
 ### Installation
@@ -363,6 +358,6 @@ Template.dowjonesFormTemplate.events({
 ------------------------
 ### Licensing
 
-MIT License. Use as you wish, including for commercial purposes.
-See license.mit.txt for full details.
+Dow Jones historical data copyright Yahoo! Finance or independent data provider; fair use for educational purposes.
+Everything else, MIT License. Use as you wish, including for commercial purposes.
 
