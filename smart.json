@@ -1,6 +1,6 @@
 {
     "name": "dataset-dowjones",
-    "description": "Meteorite package that provides a simple history of the Dow Jones Industrial Average over 5 years.",
+    "description": "Meteorite package that provides 20 years worth of Dow Jones Index summaries.",
     "homepage": "https://github.com/awatson1978/dataset-dowjones",
     "author": "Abigail Watson  (http://www.pentasyllabic.com)",
     "version": "0.1.0",
