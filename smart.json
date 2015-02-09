@@ -1,8 +1,0 @@
-{
-    "name": "dataset-dowjones",
-    "description": "Meteorite package that provides 20 years worth of Dow Jones Index summaries.",
-    "homepage": "https://github.com/awatson1978/dataset-dowjones",
-    "author": "Abigail Watson  (http://www.pentasyllabic.com)",
-    "version": "0.1.3",
-    "git": "https://github.com/awatson1978/dataset-dowjones.git"
-}
